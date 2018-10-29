@@ -1,0 +1,6 @@
+device_ids="148f:761a"
+tuxconfig_module="mt7650u_sta"
+dependencies=""
+test_program="x-www-browser www.google.co.uk"
+test_message="Did google load?"
+restart_needed="yes"
